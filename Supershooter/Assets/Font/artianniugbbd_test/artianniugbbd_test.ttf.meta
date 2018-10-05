@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3c598a8c88f684904a7078b54a44e4ae
+timeCreated: 1523774405
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AR TianNiuGB BD_Test
+  fontNames:
+  - AR TianNiuGB BD_Test
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
